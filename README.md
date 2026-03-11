@@ -22,8 +22,5 @@
 - Python 3.9 или выше
 - pip
 
-### Установка и запуск
-
-1. **Клонируйте репозиторий**
    ```bash
    git clone https://github.com/9xdrs8tg5c-alt/AI-project-MAE-MSE-.git
