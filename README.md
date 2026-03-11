@@ -26,5 +26,4 @@
 
 1. **Клонируйте репозиторий**
    ```bash
-   git clone https://github.com/9xdrs8tg5c-alt/AI-project-MAE-MSE-/
-   cd AI-project-MAE-MSE-
+   git clone https://github.com/9xdrs8tg5c-alt/AI-project-MAE-MSE-.git
